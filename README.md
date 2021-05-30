@@ -6,3 +6,4 @@ Created By Pixelsuft
  - Default Background is Blue (To fix add trigger on start to change color)
  - Default Shape Color is White (To fix add trigger on start to change color)
  - Some Levels not full (I'm noob in GD)
+ - Some Levels Missing Coins (or have not usable coins)
