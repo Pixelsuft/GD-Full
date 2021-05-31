@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometry.ach.mdlevel01a</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Completed &quot;The Seven Seas&quot; in Practice mode</string>
+		<key>identifier</key>
+		<string>geometry.ach.mdlevel01a</string>
+		<key>order</key>
+		<integer>100</integer>
+		<key>title</key>
+		<string>Yarrr!</string>
+		<key>icon</key>
+		<string>color_05</string>
+		<key>unachievedDescription</key>
+		<string>Complete &quot;The Seven Seas&quot; in Practice mode</string>
+	</dict>
+	<key>geometry.ach.mdlevel01b</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Completed &quot;The Seven Seas&quot; in Normal mode</string>
+		<key>identifier</key>
+		<string>geometry.ach.mdlevel01b</string>
+		<key>order</key>
+		<integer>200</integer>
+		<key>title</key>
+		<string>The Seven Seas!</string>
+		<key>icon</key>
+		<string>icon_65</string>
+		<key>unachievedDescription</key>
+		<string>Complete &quot;The Seven Seas&quot; in Normal mode</string>
+	</dict>
+	<key>geometry.ach.mdlevel02a</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Completed &quot;Viking Arena&quot; in Practice mode</string>
+		<key>identifier</key>
+		<string>geometry.ach.mdlevel02a</string>
+		<key>order</key>
+		<integer>300</integer>
+		<key>title</key>
+		<string>Lost Viking</string>
+		<key>icon</key>
+		<string>color_08</string>
+		<key>unachievedDescription</key>
+		<string>Complete &quot;Viking Arena&quot; in Practice mode</string>
+	</dict>
+	<key>geometry.ach.mdlevel02b</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Completed &quot;Viking Arena&quot; in Normal mode</string>
+		<key>identifier</key>
+		<string>geometry.ach.mdlevel02b</string>
+		<key>order</key>
+		<integer>400</integer>
+		<key>title</key>
+		<string>Viking Arena!</string>
+		<key>icon</key>
+		<string>icon_67</string>
+		<key>unachievedDescription</key>
+		<string>Complete &quot;Viking Arena&quot; in Normal mode</string>
+	</dict>
+	<key>geometry.ach.mdlevel03a</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Completed &quot;Airborne Robots&quot; in Practice mode</string>
+		<key>identifier</key>
+		<string>geometry.ach.mdlevel03a</string>
+		<key>order</key>
+		<integer>500</integer>
+		<key>title</key>
+		<string>Grounded Robots</string>
+		<key>icon</key>
+		<string>color_07</string>
+		<key>unachievedDescription</key>
+		<string>Complete &quot;Airborne Robots&quot; in Practice mode</string>
+	</dict>
+	<key>geometry.ach.mdlevel03b</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Completed &quot;Airborne Robots&quot; in Normal mode</string>
+		<key>identifier</key>
+		<string>geometry.ach.mdlevel03b</string>
+		<key>order</key>
+		<integer>600</integer>
+		<key>title</key>
+		<string>Airborne Robots!</string>
+		<key>icon</key>
+		<string>icon_69</string>
+		<key>unachievedDescription</key>
+		<string>Complete &quot;Airborne Robots&quot; in Normal mode</string>
+	</dict>
+	<key>geometry.ach.mdcoin01</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Collected all 3 coins on The Seven Seas</string>
+		<key>identifier</key>
+		<string>geometry.ach.mdcoin01</string>
+		<key>order</key>
+		<integer>5200</integer>
+		<key>title</key>
+		<string>Ultimate Seven Seas</string>
+		<key>icon</key>
+		<string>icon_66</string>
+		<key>unachievedDescription</key>
+		<string>Collect all 3 coins on The Seven Seas</string>
+	</dict>
+	<key>geometry.ach.mdcoin02</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Collected all 3 coins on Viking Arena</string>
+		<key>identifier</key>
+		<string>geometry.ach.mdcoin02</string>
+		<key>order</key>
+		<integer>5201</integer>
+		<key>title</key>
+		<string>Ultimate Viking Arena</string>
+		<key>icon</key>
+		<string>icon_68</string>
+		<key>unachievedDescription</key>
+		<string>Collect all 3 coins on Viking Arena</string>
+	</dict>
+	<key>geometry.ach.mdcoin03</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Collected all 3 coins on Airborne Robots</string>
+		<key>identifier</key>
+		<string>geometry.ach.mdcoin03</string>
+		<key>order</key>
+		<integer>5202</integer>
+		<key>title</key>
+		<string>Ultimate Airborne Robots</string>
+		<key>icon</key>
+		<string>icon_70</string>
+		<key>unachievedDescription</key>
+		<string>Collect all 3 coins on Airborne Robots</string>
+	</dict>
+	<key>geometry.ach.facebook</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Liked Geometry Dash on Facebook</string>
+		<key>identifier</key>
+		<string>geometry.ach.facebook</string>
+		<key>order</key>
+		<integer>16500</integer>
+		<key>title</key>
+		<string>Number one fan!</string>
+		<key>icon</key>
+		<string>color2_14</string>
+		<key>unachievedDescription</key>
+		<string>Like Geometry Dash on Facebook</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQLA</string>
+	</dict>
+	<key>geometry.ach.youtube</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Subscribed to RobTop Games on YouTube</string>
+		<key>identifier</key>
+		<string>geometry.ach.youtube</string>
+		<key>order</key>
+		<integer>16600</integer>
+		<key>title</key>
+		<string>GeometryTube</string>
+		<key>icon</key>
+		<string>color2_21</string>
+		<key>unachievedDescription</key>
+		<string>Subscribe to RobTop Games on YouTube</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQdg</string>
+	</dict>
+	<key>geometry.ach.jump01</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Jumped 1000 times</string>
+		<key>identifier</key>
+		<string>geometry.ach.jump01</string>
+		<key>order</key>
+		<integer>13500</integer>
+		<key>title</key>
+		<string>Bounce</string>
+		<key>icon</key>
+		<string>color2_06</string>
+		<key>unachievedDescription</key>
+		<string>Jump 1000 times</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQFA</string>
+	</dict>
+	<key>geometry.ach.jump02</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Jumped 10000 times</string>
+		<key>identifier</key>
+		<string>geometry.ach.jump02</string>
+		<key>order</key>
+		<integer>13600</integer>
+		<key>title</key>
+		<string>I like jumping</string>
+		<key>icon</key>
+		<string>color2_12</string>
+		<key>unachievedDescription</key>
+		<string>Jump 10000 times</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQFg</string>
+	</dict>
+	<key>geometry.ach.jump03</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Jumped 20000 times</string>
+		<key>identifier</key>
+		<string>geometry.ach.jump03</string>
+		<key>order</key>
+		<integer>13700</integer>
+		<key>title</key>
+		<string>You jump like a pro!</string>
+		<key>icon</key>
+		<string>color2_13</string>
+		<key>unachievedDescription</key>
+		<string>Jump 20000 times</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQFQ</string>
+	</dict>
+	<key>geometry.ach.attempt01</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Did 100 attempts</string>
+		<key>identifier</key>
+		<string>geometry.ach.attempt01</string>
+		<key>order</key>
+		<integer>14000</integer>
+		<key>title</key>
+		<string>Trial and error</string>
+		<key>icon</key>
+		<string>color2_07</string>
+		<key>unachievedDescription</key>
+		<string>Do 100 attempts</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQFw</string>
+	</dict>
+	<key>geometry.ach.attempt02</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Did 500 attempts</string>
+		<key>identifier</key>
+		<string>geometry.ach.attempt02</string>
+		<key>order</key>
+		<integer>14100</integer>
+		<key>title</key>
+		<string>Crash Tester</string>
+		<key>icon</key>
+		<string>color2_08</string>
+		<key>unachievedDescription</key>
+		<string>Do 500 attempts</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQGA</string>
+	</dict>
+	<key>geometry.ach.attempt03</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Did 2000 attempts</string>
+		<key>identifier</key>
+		<string>geometry.ach.attempt03</string>
+		<key>order</key>
+		<integer>14200</integer>
+		<key>title</key>
+		<string>You Shall Not Pass!</string>
+		<key>icon</key>
+		<string>color2_15</string>
+		<key>unachievedDescription</key>
+		<string>Do 2000 attempts</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQNw</string>
+	</dict>
+	<key>geometry.ach.mdrate</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Rated &quot;Geometry Dash Meltdown&quot;, thanks!</string>
+		<key>identifier</key>
+		<string>geometry.ach.mdrate</string>
+		<key>order</key>
+		<integer>13400</integer>
+		<key>title</key>
+		<string>Meltdown Supporter!</string>
+		<key>icon</key>
+		<string>icon_71</string>
+		<key>unachievedDescription</key>
+		<string>Rate &quot;Geometry Dash Meltdown&quot; and let us know what you think</string>
+	</dict>
+	<key>geometry.ach.lite01</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Followed RobTop Games on Twitter</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQLg</string>
+		<key>icon</key>
+		<string>color2_10</string>
+		<key>identifier</key>
+		<string>geometry.ach.lite01</string>
+		<key>order</key>
+		<integer>27</integer>
+		<key>title</key>
+		<string>Geometry Bird!</string>
+		<key>unachievedDescription</key>
+		<string>Follow RobTop Games on Twitter</string>
+	</dict>
+	<key>geometry.ach.lite02</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Supported the artists!</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQLg</string>
+		<key>icon</key>
+		<string>color_12</string>
+		<key>identifier</key>
+		<string>geometry.ach.lite02</string>
+		<key>order</key>
+		<integer>28</integer>
+		<key>title</key>
+		<string>Epic Musician!</string>
+		<key>unachievedDescription</key>
+		<string>Look at the Songs page</string>
+	</dict>
+	<key>geometry.ach.secret01</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed a player</string>
+		<key>identifier</key>
+		<string>geometry.ach.secret01</string>
+		<key>order</key>
+		<integer>16800</integer>
+		<key>title</key>
+		<string>Rampage!</string>
+		<key>icon</key>
+		<string>color2_20</string>
+		<key>unachievedDescription</key>
+		<string>A secret is required</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQYw</string>
+	</dict>
+	<key>geometry.ach.secret02</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed 50 players</string>
+		<key>identifier</key>
+		<string>geometry.ach.secret02</string>
+		<key>order</key>
+		<integer>16900</integer>
+		<key>title</key>
+		<string>Dominating!</string>
+		<key>icon</key>
+		<string>icon_41</string>
+		<key>unachievedDescription</key>
+		<string>A secret is required</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQZA</string>
+	</dict>
+	<key>geometry.ach.secret02b</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed 100 players</string>
+		<key>identifier</key>
+		<string>geometry.ach.secret02b</string>
+		<key>order</key>
+		<integer>17000</integer>
+		<key>title</key>
+		<string>Ultrakill!</string>
+		<key>icon</key>
+		<string>color2_28</string>
+		<key>unachievedDescription</key>
+		<string>A secret is required</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQqwE</string>
+	</dict>
+	<key>geometry.ach.secret03</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed 200 players</string>
+		<key>identifier</key>
+		<string>geometry.ach.secret03</string>
+		<key>order</key>
+		<integer>17100</integer>
+		<key>title</key>
+		<string>Godlike!</string>
+		<key>icon</key>
+		<string>icon_39</string>
+		<key>unachievedDescription</key>
+		<string>A secret is required</string>
+		<key>googleID</key>
+		<string>CgkIm5vi-_cMEAIQZQ</string>
+	</dict>
+</dict>
+</plist>

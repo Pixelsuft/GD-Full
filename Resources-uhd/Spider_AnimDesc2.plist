@@ -1,0 +1,2516 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>usedTextures</key>
+  <dict>
+    <key>texture_0</key>
+    <dict>
+      <key>texture</key>
+      <string>spider_01_02_001.png</string>
+      <key>tag</key>
+      <string>0</string>
+      <key>customID</key>
+      <string>back01</string>
+    </dict>
+    <key>texture_1</key>
+    <dict>
+      <key>texture</key>
+      <string>spider_01_02_001.png</string>
+      <key>tag</key>
+      <string>1</string>
+      <key>customID</key>
+      <string>back02</string>
+    </dict>
+    <key>texture_2</key>
+    <dict>
+      <key>texture</key>
+      <string>spider_01_04_001.png</string>
+      <key>tag</key>
+      <string>2</string>
+    </dict>
+    <key>texture_3</key>
+    <dict>
+      <key>texture</key>
+      <string>spider_01_01_001.png</string>
+      <key>tag</key>
+      <string>3</string>
+    </dict>
+    <key>texture_4</key>
+    <dict>
+      <key>texture</key>
+      <string>spider_01_03_001.png</string>
+      <key>tag</key>
+      <string>4</string>
+    </dict>
+    <key>texture_5</key>
+    <dict>
+      <key>texture</key>
+      <string>spider_01_02_001.png</string>
+      <key>tag</key>
+      <string>5</string>
+    </dict>
+  </dict>
+  <key>animationContainer</key>
+  <dict>
+    <key>Spider_idle_001.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{5.625, -7.5}</string>
+        <key>scale</key>
+        <string>{0.88379, 0.88379}</string>
+        <key>rotation</key>
+        <string>0</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{16, -7.5}</string>
+        <key>scale</key>
+        <string>{0.88379, 0.88379}</string>
+        <key>rotation</key>
+        <string>0</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-5, 0.125}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>-7.68212890625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.625, 4.5}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>0</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-14.825, -7.7}</string>
+        <key>scale</key>
+        <string>{0.99997, 0.99997}</string>
+        <key>rotation</key>
+        <string>38.963958740234375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-2.75, -6.625}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>0</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_run_001.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{13.8, -0.3}</string>
+        <key>scale</key>
+        <string>{0.88377, 0.88377}</string>
+        <key>rotation</key>
+        <string>-335.9821319580078</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{3.5, -3.75}</string>
+        <key>scale</key>
+        <string>{0.81004, 0.88378}</string>
+        <key>rotation</key>
+        <string>-20.988632202148438</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-4.175, 1.05}</string>
+        <key>scale</key>
+        <string>{1.15891, 0.99998}</string>
+        <key>rotation</key>
+        <string>-21.720413208007813</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 3.5}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>0.29986572265625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-9.55, -8.525}</string>
+        <key>scale</key>
+        <string>{1.29947, 0.81442}</string>
+        <key>rotation</key>
+        <string>24.557540893554688</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-1.225, -7.15}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>0</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_run_002.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{15.925, -2.55}</string>
+        <key>scale</key>
+        <string>{0.88378, 0.94616}</string>
+        <key>rotation</key>
+        <string>-12.916824340820313</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-1.25, -7.875}</string>
+        <key>scale</key>
+        <string>{0.83594, 0.88379}</string>
+        <key>rotation</key>
+        <string>-6.5630950927734375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-7.925, 0.25}</string>
+        <key>scale</key>
+        <string>{1.05002, 0.99999}</string>
+        <key>rotation</key>
+        <string>-5.2266693115234375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 4.65}</string>
+        <key>scale</key>
+        <string>{0.99998, 0.99998}</string>
+        <key>rotation</key>
+        <string>-0.271026611328125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-17.3, -8.7}</string>
+        <key>scale</key>
+        <string>{1.12321, 0.95157}</string>
+        <key>rotation</key>
+        <string>39.93556213378906</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-6.475, -2.825}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>20.227279663085938</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_run_003.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{13.075, -7.325}</string>
+        <key>scale</key>
+        <string>{0.84572, 1.02156}</string>
+        <key>rotation</key>
+        <string>-3.47442626953125</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-8.125, -5.05}</string>
+        <key>scale</key>
+        <string>{0.75746, 0.88379}</string>
+        <key>rotation</key>
+        <string>19.404769897460938</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-8.225, -0.9}</string>
+        <key>scale</key>
+        <string>{1.68125, 0.99999}</string>
+        <key>rotation</key>
+        <string>-9.386886596679688</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 6.375}</string>
+        <key>scale</key>
+        <string>{0.99992, 0.99992}</string>
+        <key>rotation</key>
+        <string>-1.5427093505859375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-24, -8.725}</string>
+        <key>scale</key>
+        <string>{0.99999, 1.23520}</string>
+        <key>rotation</key>
+        <string>53.8570556640625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{2.775, -2.025}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>22.178451538085938</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_run_004.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{3.375, -7.975}</string>
+        <key>scale</key>
+        <string>{0.88378, 0.88378}</string>
+        <key>rotation</key>
+        <string>-350.50677490234375</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-1.45, -2.2}</string>
+        <key>scale</key>
+        <string>{0.81525, 0.84638}</string>
+        <key>rotation</key>
+        <string>26.455841064453125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-9.025, 2.475}</string>
+        <key>scale</key>
+        <string>{1.21855, 1.00000}</string>
+        <key>rotation</key>
+        <string>-5.9497528076171875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 7.25}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>-2.4036865234375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-21.45, -3.3}</string>
+        <key>scale</key>
+        <string>{0.98877, 1.11040}</string>
+        <key>rotation</key>
+        <string>59.51597595214844</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{11.925, 0.05}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>-27.768386840820313</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_run_005.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-3.625, -2.75}</string>
+        <key>scale</key>
+        <string>{0.88373, 0.88373}</string>
+        <key>rotation</key>
+        <string>-312.3572998046875</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{4.875, 1.175}</string>
+        <key>scale</key>
+        <string>{0.79499, 0.94329}</string>
+        <key>rotation</key>
+        <string>18.427597045898438</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-6.85, 3.375}</string>
+        <key>scale</key>
+        <string>{1.14992, 0.99999}</string>
+        <key>rotation</key>
+        <string>0.7474517822265625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 6.5}</string>
+        <key>scale</key>
+        <string>{0.99990, 0.99990}</string>
+        <key>rotation</key>
+        <string>-1.8047637939453125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-16.45, -1.625}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>48.98045349121094</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{16.225, -3.575}</string>
+        <key>scale</key>
+        <string>{0.99999, 0.99999}</string>
+        <key>rotation</key>
+        <string>-50.893096923828125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_run_006.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{2.275, -1.125}</string>
+        <key>scale</key>
+        <string>{0.88377, 0.88377}</string>
+        <key>rotation</key>
+        <string>-314.8440246582031</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{6.15, 1.275}</string>
+        <key>scale</key>
+        <string>{0.84574, 0.97645}</string>
+        <key>rotation</key>
+        <string>-14.7138671875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-5.55, 2.575}</string>
+        <key>scale</key>
+        <string>{0.99998, 0.99998}</string>
+        <key>rotation</key>
+        <string>-5.2544097900390625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 5.5}</string>
+        <key>scale</key>
+        <string>{0.99997, 0.99997}</string>
+        <key>rotation</key>
+        <string>-0.7850341796875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-11.65, -3.075}</string>
+        <key>scale</key>
+        <string>{1.07177, 0.92468}</string>
+        <key>rotation</key>
+        <string>34.23335266113281</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{14.1, -6.4}</string>
+        <key>scale</key>
+        <string>{0.99997, 0.99997}</string>
+        <key>rotation</key>
+        <string>-27.17169189453125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_run_007.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{9.5, -1.425}</string>
+        <key>scale</key>
+        <string>{0.82398, 0.97924}</string>
+        <key>rotation</key>
+        <string>-298.9309539794922</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{4.35, -1.475}</string>
+        <key>scale</key>
+        <string>{0.88378, 0.88378}</string>
+        <key>rotation</key>
+        <string>-23.183914184570313</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-3.75, 3.425}</string>
+        <key>scale</key>
+        <string>{0.99998, 0.99998}</string>
+        <key>rotation</key>
+        <string>-37.603485107421875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 4.4}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>0.2622833251953125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-6.5, -5.7}</string>
+        <key>scale</key>
+        <string>{1.17999, 0.77075}</string>
+        <key>rotation</key>
+        <string>11.852615356445313</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{8.225, -7.025}</string>
+        <key>scale</key>
+        <string>{0.99996, 0.99996}</string>
+        <key>rotation</key>
+        <string>-1.171356201171875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_fall_loop_001.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{11.175, -8.575}</string>
+        <key>scale</key>
+        <string>{0.88378, 0.88378}</string>
+        <key>rotation</key>
+        <string>-322.26560974121094</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{1.925, -5.9}</string>
+        <key>scale</key>
+        <string>{0.88378, 0.88378}</string>
+        <key>rotation</key>
+        <string>-27.21112060546875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-4.875, -0.8}</string>
+        <key>scale</key>
+        <string>{1.00001, 1.00001}</string>
+        <key>rotation</key>
+        <string>-38.66780090332031</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 3.875}</string>
+        <key>scale</key>
+        <string>{0.99999, 0.99999}</string>
+        <key>rotation</key>
+        <string>2.5738525390625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-5.9, -8.95}</string>
+        <key>scale</key>
+        <string>{0.99995, 0.99995}</string>
+        <key>rotation</key>
+        <string>-14.9736328125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-0.35, -8.625}</string>
+        <key>scale</key>
+        <string>{0.99999, 0.99999}</string>
+        <key>rotation</key>
+        <string>-44.62791442871094</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_fall_loop_002.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{11.025, -8.625}</string>
+        <key>scale</key>
+        <string>{0.88232, 0.88232}</string>
+        <key>rotation</key>
+        <string>-316.15736389160156</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{2.425, -6.05}</string>
+        <key>scale</key>
+        <string>{0.88257, 0.88257}</string>
+        <key>rotation</key>
+        <string>-27.092056274414063</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-4.9, -0.975}</string>
+        <key>scale</key>
+        <string>{0.99839, 0.99839}</string>
+        <key>rotation</key>
+        <string>-38.61445617675781</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 3.725}</string>
+        <key>scale</key>
+        <string>{0.99976, 0.99976}</string>
+        <key>rotation</key>
+        <string>3.7905120849609375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-5.175, -9.175}</string>
+        <key>scale</key>
+        <string>{0.99874, 0.99874}</string>
+        <key>rotation</key>
+        <string>-23.550079345703125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.3, -8.55}</string>
+        <key>scale</key>
+        <string>{0.99834, 0.99834}</string>
+        <key>rotation</key>
+        <string>-49.360382080078125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_fall_loop_003.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{10.925, -8.7}</string>
+        <key>scale</key>
+        <string>{0.88377, 0.88377}</string>
+        <key>rotation</key>
+        <string>-312.3229064941406</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{2.675, -6.15}</string>
+        <key>scale</key>
+        <string>{0.88378, 0.88378}</string>
+        <key>rotation</key>
+        <string>-27.21112060546875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-4.875, -1.05}</string>
+        <key>scale</key>
+        <string>{1.00001, 1.00001}</string>
+        <key>rotation</key>
+        <string>-38.66780090332031</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 3.625}</string>
+        <key>scale</key>
+        <string>{0.99998, 0.99998}</string>
+        <key>rotation</key>
+        <string>4.765960693359375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-4.65, -9.325}</string>
+        <key>scale</key>
+        <string>{0.99995, 0.99995}</string>
+        <key>rotation</key>
+        <string>-29.164138793945313</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.775, -8.5}</string>
+        <key>scale</key>
+        <string>{0.99998, 0.99998}</string>
+        <key>rotation</key>
+        <string>-52.268341064453125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_fall_loop_004.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{11, -8.65}</string>
+        <key>scale</key>
+        <string>{0.88162, 0.88162}</string>
+        <key>rotation</key>
+        <string>-316.6618957519531</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{2.3, -6.075}</string>
+        <key>scale</key>
+        <string>{0.88200, 0.88200}</string>
+        <key>rotation</key>
+        <string>-27.076812744140625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-4.9, -0.975}</string>
+        <key>scale</key>
+        <string>{0.99760, 0.99760}</string>
+        <key>rotation</key>
+        <string>-38.608062744140625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 3.7}</string>
+        <key>scale</key>
+        <string>{0.99970, 0.99970}</string>
+        <key>rotation</key>
+        <string>3.7905120849609375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-5.175, -9.125}</string>
+        <key>scale</key>
+        <string>{0.99829, 0.99829}</string>
+        <key>rotation</key>
+        <string>-23.085586547851563</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.3, -8.6}</string>
+        <key>scale</key>
+        <string>{0.99754, 0.99754}</string>
+        <key>rotation</key>
+        <string>-48.65509033203125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_fall_loop_005.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{11.075, -8.575}</string>
+        <key>scale</key>
+        <string>{0.88237, 0.88237}</string>
+        <key>rotation</key>
+        <string>-321.1769104003906</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{1.95, -6}</string>
+        <key>scale</key>
+        <string>{0.88257, 0.88257}</string>
+        <key>rotation</key>
+        <string>-27.092056274414063</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-4.9, -0.875}</string>
+        <key>scale</key>
+        <string>{0.99839, 0.99839}</string>
+        <key>rotation</key>
+        <string>-38.61445617675781</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 3.8}</string>
+        <key>scale</key>
+        <string>{0.99981, 0.99981}</string>
+        <key>rotation</key>
+        <string>3.045684814453125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-5.7, -8.95}</string>
+        <key>scale</key>
+        <string>{0.99900, 0.99900}</string>
+        <key>rotation</key>
+        <string>-17.2783203125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-0.175, -8.725}</string>
+        <key>scale</key>
+        <string>{0.99835, 0.99835}</string>
+        <key>rotation</key>
+        <string>-45.13621520996094</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_jump_001.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{16.875, -5}</string>
+        <key>scale</key>
+        <string>{0.88380, 0.88380}</string>
+        <key>rotation</key>
+        <string>-24.257400512695313</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{5, -5.125}</string>
+        <key>scale</key>
+        <string>{0.88378, 0.88378}</string>
+        <key>rotation</key>
+        <string>13.996734619140625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-4.925, 0.125}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>11.01776123046875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.125, 4.5}</string>
+        <key>scale</key>
+        <string>{0.99998, 0.99998}</string>
+        <key>rotation</key>
+        <string>-3.2435455322265625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-16.775, -4.15}</string>
+        <key>scale</key>
+        <string>{0.99996, 0.99996}</string>
+        <key>rotation</key>
+        <string>57.66447448730469</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-6.125, -6}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>18.961029052734375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_walk_001.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{16, -7.5}</string>
+        <key>scale</key>
+        <string>{0.88379, 0.88379}</string>
+        <key>rotation</key>
+        <string>0</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{5.625, -7.5}</string>
+        <key>scale</key>
+        <string>{0.88379, 0.88379}</string>
+        <key>rotation</key>
+        <string>0</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-5, 0.125}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>-7.68212890625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 4}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>0.29986572265625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-14.825, -7.7}</string>
+        <key>scale</key>
+        <string>{0.99997, 0.99997}</string>
+        <key>rotation</key>
+        <string>38.963958740234375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-2.25, -6.625}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>0</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_walk_002.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{11.05, -7.425}</string>
+        <key>scale</key>
+        <string>{0.88378, 0.88378}</string>
+        <key>rotation</key>
+        <string>-358.97808837890625</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.125, -7.375}</string>
+        <key>scale</key>
+        <string>{0.83592, 0.88379}</string>
+        <key>rotation</key>
+        <string>5.9575347900390625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-7.725, -1.875}</string>
+        <key>scale</key>
+        <string>{1.17539, 1.00000}</string>
+        <key>rotation</key>
+        <string>-7.2239837646484375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 4.45}</string>
+        <key>scale</key>
+        <string>{0.99998, 0.99998}</string>
+        <key>rotation</key>
+        <string>-0.271026611328125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-18, -8.025}</string>
+        <key>scale</key>
+        <string>{0.99995, 1.03108}</string>
+        <key>rotation</key>
+        <string>45.719482421875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-1.375, -4.75}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>27.43951416015625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_walk_003.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{6.975, -7.375}</string>
+        <key>scale</key>
+        <string>{0.88380, 0.88380}</string>
+        <key>rotation</key>
+        <string>-357.4863586425781</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{1.875, -7.05}</string>
+        <key>scale</key>
+        <string>{0.75746, 0.88379}</string>
+        <key>rotation</key>
+        <string>30.4093017578125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-7.975, -1.55}</string>
+        <key>scale</key>
+        <string>{1.58511, 1.00001}</string>
+        <key>rotation</key>
+        <string>-8.907974243164063</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 5.375}</string>
+        <key>scale</key>
+        <string>{0.99992, 0.99992}</string>
+        <key>rotation</key>
+        <string>-1.5427093505859375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-21, -8.175}</string>
+        <key>scale</key>
+        <string>{0.93421, 1.14768}</string>
+        <key>rotation</key>
+        <string>52.535614013671875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{6.375, -3.875}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>5.6910247802734375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_walk_004.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{7.8, -6.85}</string>
+        <key>scale</key>
+        <string>{0.88377, 0.88377}</string>
+        <key>rotation</key>
+        <string>-334.5970001220703</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{5.05, -4.7}</string>
+        <key>scale</key>
+        <string>{0.81528, 0.84636}</string>
+        <key>rotation</key>
+        <string>16.04107666015625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-7.675, -0.9}</string>
+        <key>scale</key>
+        <string>{1.68668, 1.00000}</string>
+        <key>rotation</key>
+        <string>-5.948883056640625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 5.875}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>-2.4036865234375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-23.4, -7.875}</string>
+        <key>scale</key>
+        <string>{0.99996, 1.28061}</string>
+        <key>rotation</key>
+        <string>57.97259521484375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{12.65, -6.075}</string>
+        <key>scale</key>
+        <string>{0.95397, 1.02352}</string>
+        <key>rotation</key>
+        <string>-28.5390625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_walk_005.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{9.75, -4.75}</string>
+        <key>scale</key>
+        <string>{0.88374, 0.88374}</string>
+        <key>rotation</key>
+        <string>-338.3868103027344</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{7.375, -4.2}</string>
+        <key>scale</key>
+        <string>{0.79499, 0.94332}</string>
+        <key>rotation</key>
+        <string>-19.987518310546875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-8.475, 0.25}</string>
+        <key>scale</key>
+        <string>{1.03321, 1.00000}</string>
+        <key>rotation</key>
+        <string>-3.2452850341796875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.35, 5.6}</string>
+        <key>scale</key>
+        <string>{0.99990, 0.99990}</string>
+        <key>rotation</key>
+        <string>-1.8047637939453125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-15.15, -4.95}</string>
+        <key>scale</key>
+        <string>{0.99995, 0.99995}</string>
+        <key>rotation</key>
+        <string>43.96879577636719</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{10.025, -6.075}</string>
+        <key>scale</key>
+        <string>{0.98790, 1.01470}</string>
+        <key>rotation</key>
+        <string>-8.249771118164063</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_walk_006.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{14.375, -2.375}</string>
+        <key>scale</key>
+        <string>{0.88377, 0.88377}</string>
+        <key>rotation</key>
+        <string>-343.5785217285156</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{9.65, -6.1}</string>
+        <key>scale</key>
+        <string>{0.84575, 0.97645}</string>
+        <key>rotation</key>
+        <string>-20.935272216796875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-6.675, 1.7}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>-13.14501953125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 4.925}</string>
+        <key>scale</key>
+        <string>{0.99997, 0.99997}</string>
+        <key>rotation</key>
+        <string>-0.7850341796875</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-10.225, -4.375}</string>
+        <key>scale</key>
+        <string>{1.13610, 0.90321}</string>
+        <key>rotation</key>
+        <string>19.65093994140625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{5.875, -6.35}</string>
+        <key>scale</key>
+        <string>{0.97906, 0.99915}</string>
+        <key>rotation</key>
+        <string>-5.0601654052734375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+    <key>Spider_walk_007.png</key>
+    <dict>
+      <key>sprite_0</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>0</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{17.25, -6.55}</string>
+        <key>scale</key>
+        <string>{0.82402, 0.97924}</string>
+        <key>rotation</key>
+        <string>-11.107864379882813</string>
+        <key>flipped</key>
+        <string>{1, 0}</string>
+        <key>zValue</key>
+        <string>0</string>
+      </dict>
+      <key>sprite_1</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>1</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{8.6, -6.975}</string>
+        <key>scale</key>
+        <string>{0.88379, 0.88379}</string>
+        <key>rotation</key>
+        <string>-10.23150634765625</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>1</string>
+      </dict>
+      <key>sprite_2</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_04_001.png</string>
+        <key>tag</key>
+        <string>2</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-6.175, 0.75}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>-15.931198120117188</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>2</string>
+      </dict>
+      <key>sprite_3</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_01_001.png</string>
+        <key>tag</key>
+        <string>3</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{0.375, 4.15}</string>
+        <key>scale</key>
+        <string>{1.00000, 1.00000}</string>
+        <key>rotation</key>
+        <string>0.2622833251953125</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>3</string>
+      </dict>
+      <key>sprite_4</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_03_001.png</string>
+        <key>tag</key>
+        <string>4</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{-11.175, -6.85}</string>
+        <key>scale</key>
+        <string>{1.08914, 0.88086}</string>
+        <key>rotation</key>
+        <string>18.704925537109375</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>4</string>
+      </dict>
+      <key>sprite_5</key>
+      <dict>
+        <key>texture</key>
+        <string>spider_01_02_001.png</string>
+        <key>tag</key>
+        <string>5</string>
+        <key>usesCustomTag</key>
+        <string>0</string>
+        <key>position</key>
+        <string>{2, -6.525}</string>
+        <key>scale</key>
+        <string>{0.97821, 1.00859}</string>
+        <key>rotation</key>
+        <string>0</string>
+        <key>flipped</key>
+        <string>{0, 0}</string>
+        <key>zValue</key>
+        <string>5</string>
+      </dict>
+    </dict>
+  </dict>
+</dict>
+</plist>
