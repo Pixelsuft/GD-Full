@@ -11,7 +11,7 @@ Created By Pixelsuft
 
 ## Download
 [Repo (ZIP)](https://github.com/Pixelsuft/GD-Full/archive/refs/heads/main.zip) <br />
-[Source v1.3 (ZIP)](https://github.com/Pixelsuft/GD-Full/archive/refs/tags/v1.3.zip) <br />
-[Source v1.3 (TAR.GZ)](https://github.com/Pixelsuft/GD-Full/archive/refs/tags/v1.3.tar.gz) <br />
-[Windows (ZIP)](https://github.com/Pixelsuft/GD-Full/releases/download/v1.3/Geometry.Dash.Full.Edition.zip) <br />
-[Android (APK)](https://github.com/Pixelsuft/GD-Full/releases/download/v1.1/Geometry.Dash.Full.Edition.apk)
+[Source v1.4 (ZIP)](https://github.com/Pixelsuft/GD-Full/archive/refs/tags/v1.4.zip) <br />
+[Source v1.4 (TAR.GZ)](https://github.com/Pixelsuft/GD-Full/archive/refs/tags/v1.4.tar.gz) <br />
+[Windows (ZIP)](https://github.com/Pixelsuft/GD-Full/releases/download/v1.4/Geometry.Dash.Full.Edition.zip) <br />
+[Android (APK)](https://github.com/Pixelsuft/GD-Full/releases/download/v1.4/Geometry.Dash.Full.Edition.apk)
